@@ -1,0 +1,21 @@
+/* Background */
+
+.button, .hover .button.white:hover, nav ul li.icon a div, .drop-container:before, .drop .featured .thumb .price, .hamburger span, .ui-state-hover, .ui-widget-content .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, .label, .banner:before, .hero .tags li a, .hover .hero .item.over, .accordion li:before, .slideshow.slideshow-main:before, .boxes .item a:before, .boxes .featured, .post-date, .panel:before, .services div[class^='col']:before, .services .details, .testimonials:before, .testimonials .item.testimonial-main .testimonial, .features .item .thumb, .features .item:before, .quote .details:before, .menu .title:before, .search-list .result a:before, .comments li:before, .copy aside:before, .copy aside .sidebar-nav li:after, .copy aside .sidebar-nav li a:before, .extras .row .details:before, .subscribe, .pop:before, .pop button, .hover #pop .close:hover { background: #56D5C4; }
+.hover .tiles a:hover { background: #56D5C4 !important; }
+.hamburger span::before, .hamburger span::after, .hamburger.is-active span::before, .hamburger.is-active span::after { background-color: #56D5C4; }
+
+/* Color */
+
+.button.white i, .hover nav > ul > li.mega-menu > a:hover:after, nav.drop-active > ul > li.current-drop.mega-menu > a:after, .hover .drop .heading a:hover, .hover .drop .featured a:hover .title, .bar button, h1, .h1, h2, .h2, .container p a, .content a, .copy a, .lightbox-info a, h1 a, h2 a, .hover .hero .item.layout-2 a:hover, .tags li a, .accordion li.reveal h3, .accordion li.reveal h3:after, .slideshow .item .h1 a:after, .slideshow-nav .item h3 a:after, .boxes .item .price, .boxes .item.special .details strong, .panel .nav, .usp i, .instagram-tag i, .services .item i, .testimonials .item i.ion-quote, .quote h4, .search-list .result h3, .search-list .result p.url, .comments li .comment-reply-link, .copy aside .sidebar-text .tags li a, .copy aside .sidebar-nav li a:after, .form .row label .required, .form .row .field-date i, .hover footer li a:hover, #share a { color:#56D5C4; }
+.button.white, .search-drop .button, .hover nav > ul > li > a:hover, nav > ul > li.current-drop > a, nav > ul > li.current-drop > a:hover, .hover .slideshow-nav .tabs ul:hover li a:hover, .slideshow-nav .tabs li.selected a, .tiles.feature .button, .copy aside .sidebar-nav li a { color: #56D5C4 !important; }
+
+/* Border */
+
+.usp i, .stats div[class^='col']:after { border-color: #56D5C4; }
+nav > ul > li.mega-menu:after, nav ul li.icon a div:after, .panel:not(.panel-hero) .right li:after { border-bottom-color: #56D5C4; }
+.services .details:after, .stats div[class^='col']:before, .menu .title:after { border-top-color:#56D5C4; }
+
+/* Misc */
+
+.form .row input[type='text']:focus, .form .row input[type='email']:focus, .form .row select:focus, .form .row textarea:focus { box-shadow: 0 0 3px 1px #56D5C4 !important; }
+
