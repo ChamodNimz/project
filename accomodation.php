@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Accomadations</title>
+	<title>Accommodation</title>
 	<?php include('links.php'); ?>
 </head>
 <body>
