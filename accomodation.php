@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Accomadations</title>
+	<title>Accommodation</title>
 	<?php include('links.php'); ?>
 </head>
 <body>
@@ -105,49 +105,6 @@
                             </a>
                         </div>
                     </div>
-                     <div class="item">
-                        <div class="item-container" style="animation-duration: 2s; animation-name: example;">
-                            <a href="rooms-single.html">
-                                <div class="thumb">
-                                    <img src="Hotel/500x300-19.jpg" alt="" width="500" height="300">
-                                </div>
-                                <div class="details">
-                                    <h3>3Bedroom – Deluxe City View</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna...</p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                     <div class="item">
-                        <div class="item-container">
-                            <a href="rooms-single.html">
-                                <div class="thumb">
-                                    <img src="Hotel/500x300-8.jpg" alt="" width="500" height="300">
-                                </div>
-                                <div class="details">
-                                    <h3>3Bedroom – Premium City View</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna...</p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                     <div class="item">
-                        <div class="item-container" style="animation-duration: 2s; animation-name: examples;">
-                            <a href="rooms-single.html">
-                                <div class="thumb">
-                                    <img src="Hotel/500x300-20.jpg" alt="" width="500" height="300">
-                                </div>
-                                <div class="details">
-                                    <h3>4Bedroom – Ocean Premier</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna...</p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-
-
-
                 </div>
             </div>
 
