@@ -12,6 +12,12 @@ html, body, #body {
 	margin: 0; 
 	padding: 0; 
 }
+.value{
+	padding: 10px;
+	overflow: hidden;
+	border-bottom:2px solid orange;
+	font-size: 30px;
+}
 #body { opacity: 0; }
 .center {
 	width: 100%; 
@@ -1413,7 +1419,9 @@ hr.line {
 
 .hover .comments li .comment-reply-link:hover { color:#555; }
 
-
+.borderUp{
+	border-top: 2px solid blue; 
+}
 
 
 /********** 7.0 - Sidebar **********/
