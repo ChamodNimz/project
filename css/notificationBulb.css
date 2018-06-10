@@ -1,0 +1,24 @@
+/* use it inside a span class and use span class inside a button and button do boostsrap btn class and so on */
+.notification-bulb{
+	
+	background-color:red;
+	color: white;
+	position: relative;
+	padding: 5px 8px 5px 8px;
+	border-radius: 250px;
+	width: 20px;
+	height: 20px;
+	font-size: .7em;	
+	top: 10px;
+	left: 0px;
+	opacity: 1.0 !important;
+
+}
+a{
+	opacity: 0.8;
+	transition: opacity 0.8s;
+}
+a:hover{
+	text-decoration: none !important ;
+	opacity:1.0 ;
+}
